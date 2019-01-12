@@ -1,0 +1,15 @@
+Female or male patients, aged at least 18 years (no upper limit of age)
+ECOG PS 0 or 1
+Life expectancy of at least 3 months
+Patients with histologically or cytologically documented metastatic or refractory/recurrent HPV-16 + cancer. Phase Ib: cervical, vulvar, vaginal, penile,    
+anal, and oropharyngeal squamous cell carcinoma of head and neck. Phase II part: an expansion cohort of oropharyngeal SCCHN will be included
+Disease MUST not be amenable to curative surgery resection or curative radiotherapy with documented disease progression
+Prior therapy: Patients MAY have received up to 2 prior lines of systemic chemotherapy for the management of metastatic or recurrent disease; for SCCHN, patients MUST have  
+previously been exposed to platinum-based therapy, either as part of definitive chemo-radiation OR as first line systemic treatment for metastatic disease which may  
+include cetuximab. Patients with recurrence/progression within 6 months of prior multimodal therapy using platinum-based therapy are eligible. Patients with cervical  
+cancer may have undergone surgery and/or received definitive radiation or chemo-radiation therapy for localized disease.                                        
+Availability of tumor tissue from biopsy
+At least one measurable lesion by CT scan according to RECIST 1.1.
+Adequate hematological, hepatic and renal function
+Negative blood pregnancy test at screening for women of childbearing potential
+Highly effective contraception for both male and female patients if the risk of conception exists during the study period and for 3 months after the last study treatment administration

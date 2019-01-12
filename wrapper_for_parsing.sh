@@ -20,9 +20,9 @@
 
 #!!!! Personalize your parameters before parsing !!!!#
 
-INPUT_DIR='Tempfile'        # change to your input dir
-INPUT_TEXT='temp.txt'          # change to your input .txt file name
-OUTPUT_DIR='Tempfile'        # change to your output dir
+INPUT_DIR='input'        # change to your input dir
+INPUT_TEXT='NCT03300180.txt'          # change to your input .txt file name
+OUTPUT_DIR='output'        # change to your output dir
 
 
 python NamedEntityRecognition.py $INPUT_DIR $INPUT_TEXT $OUTPUT_DIR
